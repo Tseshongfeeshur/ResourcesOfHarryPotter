@@ -2,15 +2,9 @@
 
 <center>By Ryan璃黯</center>
 
-## 快速跳转：
-
-> [壁纸](#壁纸)
-> [美版经典封面](#美版经典封面)
-> [其他版本封面](#其他版本封面)
-> [实物封面](#实物封面)
-> [美版经典插图](#美版经典插图)
-> [其他版本插图](#其他版本插图)
-> [章前图片](#章前图片)
+> **<big>快速跳转：</big>**
+>
+> > [TOC]
 
 ## 壁纸
 
@@ -46,18 +40,20 @@
 ![壁纸](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/wallpapers/30.jpg)
 ![壁纸](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/wallpapers/31.jpg)
 ![壁纸](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/wallpapers/32.jpg)
-![壁纸](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/wallpapers/33.jpg)
-![壁纸](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/wallpapers/34.jpg)
-![壁纸](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/wallpapers/35.jpg)
-![壁纸](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/wallpapers/36.jpg)
-![壁纸](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/wallpapers/37.jpg)
+![壁纸](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/wallpapers/33.png)
+![壁纸](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/wallpapers/34.png)
+![壁纸](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/wallpapers/35.png)
+![壁纸](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/wallpapers/36.png)
+![壁纸](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/wallpapers/37.png)
 ![壁纸](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/wallpapers/38.jpg)
 ![壁纸](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/wallpapers/39.jpg)
 ![壁纸](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/wallpapers/40.jpg)
 ![壁纸](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/wallpapers/41.jpg)
 ![壁纸](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/wallpapers/42.jpg)
 
-## 美版经典封面
+## 封面
+
+### 美版经典封面
 
 ![美版经典封面](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/classical-covers/1.jpg)
 ![美版经典封面](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/classical-covers/2.jpg)
@@ -67,7 +63,7 @@
 ![美版经典封面](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/classical-covers/6.jpg)
 ![美版经典封面](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/classical-covers/7.jpg)
 
-## 其他版本封面
+### 其他版本封面
 
 ![其他版本封面](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/covers/1.jpg)
 ![其他版本封面](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/covers/2.jpg)
@@ -77,7 +73,7 @@
 ![其他版本封面](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/covers/6.jpg)
 ![其他版本封面](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/covers/7.jpg)
 
-## 实物封面
+### 实物封面
 
 ![实物封面](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/object-style-covers/1.jpg)
 ![实物封面](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/object-style-covers/2.jpg)
@@ -87,7 +83,11 @@
 ![实物封面](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/object-style-covers/6.jpg)
 ![实物封面](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/object-style-covers/7.jpg)
 
-## 美版经典插图
+## 插图
+
+### 美版经典插图
+
+#### 第一辑
 
 ![美版经典插图](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/classical-pictures-in-paras/number1/1.jpg)
 ![美版经典插图](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/classical-pictures-in-paras/number1/2.jpg)
@@ -99,10 +99,16 @@
 ![美版经典插图](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/classical-pictures-in-paras/number1/8.jpg)
 ![美版经典插图](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/classical-pictures-in-paras/number1/9.jpg)
 ![美版经典插图](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/classical-pictures-in-paras/number1/10.jpg)
+
+#### 第二辑
+
 ![美版经典插图](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/classical-pictures-in-paras/number2/1.jpg)
 ![美版经典插图](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/classical-pictures-in-paras/number2/2.jpg)
 ![美版经典插图](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/classical-pictures-in-paras/number2/3.jpg)
 ![美版经典插图](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/classical-pictures-in-paras/number2/4.jpg)
+
+#### 第三辑
+
 ![美版经典插图](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/classical-pictures-in-paras/number3/1.jpg)
 ![美版经典插图](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/classical-pictures-in-paras/number3/2.jpg)
 ![美版经典插图](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/classical-pictures-in-paras/number3/3.jpg)
@@ -110,22 +116,34 @@
 ![美版经典插图](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/classical-pictures-in-paras/number3/5.jpg)
 ![美版经典插图](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/classical-pictures-in-paras/number3/6.jpg)
 ![美版经典插图](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/classical-pictures-in-paras/number3/7.jpg)
+
+#### 第四辑
+
 ![美版经典插图](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/classical-pictures-in-paras/number4/1.jpg)
 ![美版经典插图](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/classical-pictures-in-paras/number4/2.jpg)
 ![美版经典插图](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/classical-pictures-in-paras/number4/3.jpg)
 ![美版经典插图](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/classical-pictures-in-paras/number4/4.jpg)
 ![美版经典插图](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/classical-pictures-in-paras/number4/5.jpg)
+
+#### 第五辑
+
 ![美版经典插图](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/classical-pictures-in-paras/number5/1.jpg)
 ![美版经典插图](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/classical-pictures-in-paras/number5/2.jpg)
 ![美版经典插图](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/classical-pictures-in-paras/number5/3.jpg)
 ![美版经典插图](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/classical-pictures-in-paras/number5/4.jpg)
 ![美版经典插图](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/classical-pictures-in-paras/number5/5.jpg)
 ![美版经典插图](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/classical-pictures-in-paras/number5/6.jpg)
+
+#### 第六辑
+
 ![美版经典插图](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/classical-pictures-in-paras/number6/2.jpg)
+
+#### 第七辑
+
 ![美版经典插图](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/classical-pictures-in-paras/number7/1.jpg)
 ![美版经典插图](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/classical-pictures-in-paras/number7/2.jpg)
 
-## 其他版本插图
+### 其他版本插图
 
 ![其他版本插图](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/pictures-in-paras/1.jpg)
 ![其他版本插图](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/pictures-in-paras/2.jpg)
@@ -141,7 +159,9 @@
 ![其他版本插图](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/pictures-in-paras/12.jpg)
 ![其他版本插图](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/pictures-in-paras/Quidditch.jpg)
 
-## 章前图片
+### 章前图片
+
+#### 第一辑
 
 ![章前图片](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/photos-before-characters/number1/01th-character.png)
 ![章前图片](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/photos-before-characters/number1/02th-character.png)
@@ -160,6 +180,9 @@
 ![章前图片](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/photos-before-characters/number1/15th-character.png)
 ![章前图片](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/photos-before-characters/number1/16th-character.png)
 ![章前图片](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/photos-before-characters/number1/17th-character.png)
+
+#### 第二辑
+
 ![章前图片](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/photos-before-characters/number2/01th-character.png)
 ![章前图片](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/photos-before-characters/number2/02th-character.png)
 ![章前图片](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/photos-before-characters/number2/03th-character.png)
@@ -178,6 +201,9 @@
 ![章前图片](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/photos-before-characters/number2/16th-character.png)
 ![章前图片](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/photos-before-characters/number2/17th-character.png)
 ![章前图片](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/photos-before-characters/number2/18th-character.png)
+
+#### 第三辑
+
 ![章前图片](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/photos-before-characters/number3/01th-character.png)
 ![章前图片](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/photos-before-characters/number3/02th-character.png)
 ![章前图片](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/photos-before-characters/number3/03th-character.png)
@@ -200,6 +226,9 @@
 ![章前图片](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/photos-before-characters/number3/20th-character.png)
 ![章前图片](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/photos-before-characters/number3/21th-character.png)
 ![章前图片](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/photos-before-characters/number3/22th-character.png)
+
+#### 第四辑
+
 ![章前图片](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/photos-before-characters/number4/01th-character.png)
 ![章前图片](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/photos-before-characters/number4/02th-character.png)
 ![章前图片](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/photos-before-characters/number4/03th-character.png)
@@ -237,6 +266,9 @@
 ![章前图片](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/photos-before-characters/number4/35th-character.png)
 ![章前图片](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/photos-before-characters/number4/36th-character.png)
 ![章前图片](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/photos-before-characters/number4/37th-character.png)
+
+#### 第五辑
+
 ![章前图片](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/photos-before-characters/number5/01th-character.png)
 ![章前图片](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/photos-before-characters/number5/02th-character.png)
 ![章前图片](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/photos-before-characters/number5/03th-character.png)
@@ -275,6 +307,9 @@
 ![章前图片](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/photos-before-characters/number5/36th-character.png)
 ![章前图片](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/photos-before-characters/number5/37th-character.png)
 ![章前图片](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/photos-before-characters/number5/38th-character.png)
+
+#### 第六辑
+
 ![章前图片](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/photos-before-characters/number6/01th-character.png)
 ![章前图片](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/photos-before-characters/number6/02th-character.png)
 ![章前图片](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/photos-before-characters/number6/03th-character.png)
@@ -305,6 +340,9 @@
 ![章前图片](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/photos-before-characters/number6/28th-character.png)
 ![章前图片](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/photos-before-characters/number6/29th-character.png)
 ![章前图片](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/photos-before-characters/number6/30th-character.png)
+
+#### 第七辑
+
 ![章前图片](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/photos-before-characters/number7/01th-character.png)
 ![章前图片](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/photos-before-characters/number7/02th-character.png)
 ![章前图片](https://tseshongfeeshur.github.io/TranslationOfHarryPotter/resources/photos-before-characters/number7/03th-character.png)
